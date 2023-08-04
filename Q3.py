@@ -1,5 +1,5 @@
 # Question 3
-# Presented by Joseph
+# Presented by Jostrix
 
 # For list of integers
 list1 = []
